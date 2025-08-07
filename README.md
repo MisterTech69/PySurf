@@ -20,9 +20,9 @@ Install PySurf with pip
 ## Features
 
 - Light/dark mode toggle
-- VPN Support (Coming soon)
 - Built in Tetris
-- Password autofill (Coming soon)
+- Password autofill
+- VPN Support (Coming soon)
 
 
 ## FAQ
@@ -36,12 +36,12 @@ To the left of the themes button
 Yes! Pressing Ctrl+T opens a new tab, Ctrl+W closes the browser, Ctrl+R refreshes the page and pressing the back space key on tetris closes the window
 
 
-## Authors
-
-- [@MisterTech69](https://github.com/MisterTech69)
-
-
 ## Optimizations
 
 I am trying to improve the perforamnce of the browser as loading game sis slow and youtube can be stuttery at higher resolutuions and in full screen
+
+
+## Authors
+
+- [@MisterTech69](https://github.com/MisterTech69)
 

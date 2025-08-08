@@ -35,6 +35,9 @@ To the left of the themes button
 
 Yes! Pressing Ctrl+T opens a new tab, Ctrl+W closes the browser, Ctrl+R refreshes the page and pressing the back space key on tetris closes the window
 
+### Does the password system remember you?
+
+Yes it does! If you enter the previous master password that you used it will have saved all of those passwords to that master password. If you enter the wrong one it will launch the browser on a new profile
 
 ## Optimizations
 
